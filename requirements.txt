@@ -1,0 +1,6 @@
+Django
+djangorestframework
+python-decouple
+drf-yasg
+django-jazzmin
+psycopg2-binary
